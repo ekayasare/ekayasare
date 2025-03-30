@@ -16,6 +16,16 @@
     Always eager to work on impactful data science projects, I look forward to contributing to teams that solve complex challenges. Let’s connect and explore how I can help drive success through the power of data!
 </p>
 
+<p align='left'>
+    **Fun Facts About Me**:
+</p>
+<ul>
+    <li>I enjoy finding new restaurants to try and exploring different cuisines.</li>
+    <li>I love running and going on hikes to stay active and enjoy nature.</li>
+    <li>I have a passion for cooking and trying out new recipes.</li>
+    <li>My 2025 goals include getting my dream job as a Data Scientist and buying a Tesla Model X.</li>
+</ul>
+
 </p>
 
 <p align='left'>You can view my resume <a href='https://docs.google.com/document/d/1kcubh3kky-TxXnbzx3MY2sFzu_muD0lsEZ-930_6_IA/edit?tab=t.0' target=_blank><u>here</u>.</a></p>

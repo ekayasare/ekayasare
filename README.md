@@ -9,7 +9,7 @@
 </p>
 
 <p align='left'>
-    I’m particularly interested in projects that allow me to apply machine learning, predictive analytics, and data visualization to industries like healthcare, finance, and tech. With hands-on experience in building models, performing data cleaning and preprocessing, and delivering actionable insights, I aim to help businesses and organizations achieve smarter outcomes through data-driven strategies. 
+    I’m particularly interested in projects that allow me to apply Python (Pandas), SQL, Data Visualization (Matplotlib), and Machine Learning (scikit-learn, NLTK, TensorFlow) to industries like healthcare and tech. With hands-on experience in building models, performing data cleaning and preprocessing, and delivering actionable insights, I aim to help businesses and organizations achieve smarter outcomes through data-driven strategies.
 </p>
 
 <p align='left'>

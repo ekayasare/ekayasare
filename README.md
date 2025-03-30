@@ -9,11 +9,11 @@
 </p>
 
 <p align='left'>
-    I’m particularly interested in projects that allow me to apply **machine learning**, **predictive analytics**, and **data visualization** to industries like **healthcare**, **finance**, and **tech**. With hands-on experience in building models, performing data cleaning and preprocessing, and delivering actionable insights, I aim to help businesses and organizations achieve smarter outcomes through data-driven strategies. 
+    I’m particularly interested in projects that allow me to apply machine learning, predictive analytics, and data visualization to industries like healthcare, finance, and tech. With hands-on experience in building models, performing data cleaning and preprocessing, and delivering actionable insights, I aim to help businesses and organizations achieve smarter outcomes through data-driven strategies. 
 </p>
 
 <p align='left'>
-    I’m always looking for opportunities to work on impactful data science projects and contribute to teams solving complex challenges. Let’s connect and explore how I can help you achieve success through the power of data!
+    I always seek opportunities to work on impactful data science projects and contribute to teams solving complex challenges. Let’s connect and explore how I can help you achieve success through the power of data!
 </p>
 
 <p align='left'>You can view my resume <a href='https://docs.google.com/document/d/1kcubh3kky-TxXnbzx3MY2sFzu_muD0lsEZ-930_6_IA/edit?tab=t.0' target=_blank><u>here</u>.</a></p>

@@ -17,7 +17,7 @@
 </p>
 
 <p align='left'>
-    **Fun Facts About Me**:
+    Fun Facts About Me:
 </p>
 <ul>
     <li>I enjoy finding new restaurants to try and exploring different cuisines.</li>

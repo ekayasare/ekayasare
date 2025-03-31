@@ -5,7 +5,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/ekayasare/Data_Science_Projects)](https://github.com/ekayasare/Data_Science_Projects)
 
 <p align='left'>
-    Hi, I'm Emmanuel Nyarko Asare, an aspiring Data Scientist passionate about leveraging data to solve real-world problems. With a strong foundation in Python, SQL, machine learning, and data analysis, I thrive on using data to uncover patterns and insights that drive business decisions. My background in cybersecurity further strengthens my ability to manage and analyze complex datasets, making me well-suited for roles in data science and analytics.
+    Hi, I'm Emmanuel Nyarko Asare, an aspiring Data Scientist passionate about leveraging data to solve real-world problems. With a strong foundation in Python, SQL, machine learning, and data analysis, I thrive on using data to uncover patterns and insights that drive business decisions. My background in security further strengthens my ability to manage and analyze complex datasets, making me well-suited for roles in data science and analytics.
 </p>
 
 <p align='left'>
